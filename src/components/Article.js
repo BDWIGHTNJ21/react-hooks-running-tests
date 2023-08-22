@@ -9,4 +9,3 @@ function Article() {
 }
 
 export default Article;
-Watch Usage: Press w to show more.
